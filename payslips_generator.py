@@ -94,8 +94,8 @@ import yagmail
 # === Step 4: Emailing Payslips ===
 
 # Set your sender email and password/app-password
-sender_email = 'florencepkarindi@gmail.com'
-app_password = 'vxvs rnti xymw vern'  # For Gmail, generate an App Password
+sender_email = 'example@gmail.com'
+app_password = 'app_password'  # For Gmail, generate an App Password
 
 # Initialize yagmail client
 yag = yagmail.SMTP(user=sender_email, password=app_password)
