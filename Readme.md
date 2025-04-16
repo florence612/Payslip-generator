@@ -27,7 +27,7 @@ Logs all processing and email activity
 
 Fully customizable
 
-🔧 Requirements
+ Requirements
 Install the following Python libraries:
 
 bash
