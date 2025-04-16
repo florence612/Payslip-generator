@@ -39,7 +39,7 @@ Your employees.xlsx should have the following columns in Sheet1:
 
 
 Employee ID	Employee Name	Department	Email	Basic Salary	Allowance	Deductions
-1001	John Doe	Finance	johndoe@email.com	1000	200	50
+
  How the Script Works
 1. Load & Process Excel File
 Reads the Excel file
